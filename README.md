@@ -4,11 +4,12 @@ Available/booked locations view for the local Fotostudio Pastila.
 Try it live here: [https://pastila.glitch.me](https://pastila.glitch.me)
 
 This solution makes in-company bookings Google Calendar view available as the user-friendly table to the customers.
-Literally it makes this
+
+Literally it makes this:
 
 ![Screenshot](To.jpg)
 
-from this
+from this:
 
 ![Screenshot](From.jpg)
 
