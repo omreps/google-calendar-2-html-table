@@ -9,7 +9,7 @@ Literally it makes this:
 
 ![Screenshot](To.jpg)
 
-from this:
+From this:
 
 ![Screenshot](From.jpg)
 
