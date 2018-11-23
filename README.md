@@ -5,7 +5,14 @@ Try it live here: [https://pastila.glitch.me](https://pastila.glitch.me)
 
 This solution makes in-company bookings Google Calendar view available as the user-friendly table to the customers.
 
-Literally it makes this:
+Some details:
+- project hosted on Glitch. 
+- server code is JS on Node.js
+- browser view uses HTML+CSS+JQuery and moment.js,
+- responsible view on flexbox
+- Google Calendar access through google service account
+
+In 2 words project makes this:
 
 ![Screenshot](To.jpg)
 
