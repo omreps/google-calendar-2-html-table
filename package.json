@@ -1,0 +1,19 @@
+{
+    "name": "pastila-on-glitch",
+    "version": "1.0.1",
+    "description": "Available/booked locations view for the local Fotostudio Pastila",
+    "keywords": [
+      "node.js",
+      "gcalendar"
+    ],
+    "scripts": {
+      "start": "node index.js"
+    },
+    "engines": { 
+      "node": "8.4.0"
+    },
+    "license": "MIT",
+    "devDependencies": {
+      "googleapis": "^34.0.0"
+    }
+  }
