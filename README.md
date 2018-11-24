@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Pastila-On-Glitch
 Available/booked locations view for the local Fotostudio Pastila.
 
