@@ -10,11 +10,10 @@ From this:
 
 ![Screenshot](From.jpg)
 
-Live view for available/booked locations of the local Fotostudio Pastila.
-
-Try it: [https://pastila.glitch.me](https://pastila.glitch.me)
-
 This solution makes bookings Google Calendar view available as the user-friendly table to the customers.
+
+Live view for available/booked locations of the local Fotostudio Pastila.
+Try it: [https://pastila.glitch.me](https://pastila.glitch.me)
 
 Some details:
 - project hosted on Glitch. 
