@@ -10,14 +10,14 @@ From this:
 
 ![Screenshot](From.jpg)
 
-This solution makes bookings Google Calendar view available as the user-friendly table to the customers.
+This solution makes bookings Google Calendar view available as the user-friendly table.
 
-Live view for available/booked locations of the local Fotostudio Pastila, try it now: [https://pastila.glitch.me](https://pastila.glitch.me)
+Live view of the available/booked locations, try it now: [https://pastila.glitch.me](https://pastila.glitch.me)
 
 Some details:
 - project hosted for free on Glitch - NodeJS hosting
 - server code is vanilla JS on Node.js
-- browser view uses HTML+CSS+JQuery and moment.js
+- view uses HTML+CSS+JQuery and moment.js
 - responsible CSS, flexboxes
 - users Google Calendar accessed through the Google Service account, calendar not shared on the web
 
