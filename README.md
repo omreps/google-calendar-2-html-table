@@ -12,7 +12,7 @@ From this:
 
 This solution makes bookings Google Calendar view available as the user-friendly table.
 
-Live view of the available/booked locations, try it now: [https://studio-booking.glitch.me/](https://studio-booking.glitch.me)
+Live view of the available/booked locations, try it now
 
 Some details:
 - project hosted for free on Glitch - NodeJS hosting
